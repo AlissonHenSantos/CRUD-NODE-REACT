@@ -1,0 +1,9 @@
+.navItem{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #fff;
+}
